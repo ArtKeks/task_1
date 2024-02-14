@@ -1,0 +1,14 @@
+D:\Учеба GB\Знакомство с языками программирования\Lesson1\task2\obj\Debug\net7.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба GB\Знакомство с языками программирования\Lesson1\task2\obj\Debug\net7.0\task2.AssemblyInfoInputs.cache
+D:\Учеба GB\Знакомство с языками программирования\Lesson1\task2\obj\Debug\net7.0\task2.AssemblyInfo.cs
+D:\Учеба GB\Знакомство с языками программирования\Lesson1\task2\obj\Debug\net7.0\task2.csproj.CoreCompileInputs.cache
+D:\Учеба GB\Знакомство с языками программирования\Lesson1\task2\bin\Debug\net7.0\task2.exe
+D:\Учеба GB\Знакомство с языками программирования\Lesson1\task2\bin\Debug\net7.0\task2.deps.json
+D:\Учеба GB\Знакомство с языками программирования\Lesson1\task2\bin\Debug\net7.0\task2.runtimeconfig.json
+D:\Учеба GB\Знакомство с языками программирования\Lesson1\task2\bin\Debug\net7.0\task2.dll
+D:\Учеба GB\Знакомство с языками программирования\Lesson1\task2\bin\Debug\net7.0\task2.pdb
+D:\Учеба GB\Знакомство с языками программирования\Lesson1\task2\obj\Debug\net7.0\task2.dll
+D:\Учеба GB\Знакомство с языками программирования\Lesson1\task2\obj\Debug\net7.0\refint\task2.dll
+D:\Учеба GB\Знакомство с языками программирования\Lesson1\task2\obj\Debug\net7.0\task2.pdb
+D:\Учеба GB\Знакомство с языками программирования\Lesson1\task2\obj\Debug\net7.0\task2.genruntimeconfig.cache
+D:\Учеба GB\Знакомство с языками программирования\Lesson1\task2\obj\Debug\net7.0\ref\task2.dll
